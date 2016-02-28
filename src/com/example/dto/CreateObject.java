@@ -1,6 +1,4 @@
-package com.example;
-
-
+package com.example.dto;
 
 import java.io.FileInputStream;
 import java.lang.reflect.Method;
@@ -13,10 +11,6 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-
-import com.example.dto.AppsInpt;
-import com.example.dto.HatApps;
-import com.example.dto.RowData;
 
 public class CreateObject {
 
